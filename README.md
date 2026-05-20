@@ -61,12 +61,11 @@ https://github.com/Honorineflash123
 
 ## Live Portfolio
 
-(Your GitHub Pages link will go here after deployment)
 
-Example:
-https://Honorineflash123.github.io/portfolio/
+Portfolio Website:
+https://honorineflash123.github.io/portfolio/
 
----
+
 
 ## Contact Information
 
